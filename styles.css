@@ -11,6 +11,17 @@
   border: 2px solid #000000;
   width: 200px;
   height: 350px;
+  border-radius: 12px;
+}
+
+.card_red {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #000000;
+  width: 200px;
+  height: 350px;
+  color: #FF0000;
+  border-radius: 12px;
 }
 
 .left {
